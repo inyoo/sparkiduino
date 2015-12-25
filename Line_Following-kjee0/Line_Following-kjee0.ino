@@ -16,7 +16,6 @@
 void setup() 
 {
   sparki.servo(SERVO_CENTER); // center the servo
-
 }
 
 void loop() {
